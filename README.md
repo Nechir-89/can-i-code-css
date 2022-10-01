@@ -1,6 +1,4 @@
-# Can I CSS
-Can I CSS is a program to practice CSS with solving problems related to CSS. 
-Here you can find all repositories and the video links related to CAN I CSS practices.
+# Can I Code CSS
+**Can I Code CSS:** is a program to practice CSS with solving problems related to CSS. 
+Here you can find all repositories and the video links related to CAN I Code CSS program.
 
-### Can I CSS
-- 
